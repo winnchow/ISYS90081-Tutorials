@@ -1,3 +1,3 @@
-# COMP90042 Workshops
+# ISYS90081 Tutorials
 
-Please find the slides I used in my workshops. Happy learning : )
+Please find the slides I used in my tutorials. Happy learning : )
